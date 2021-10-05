@@ -6,7 +6,7 @@ const Index = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-4 mb-lg-0 mb-3" data-aos="fade-up">
-            <img src={Welcome} alt="" />
+            <img src={Welcome} alt="" className="img-fluid" />
           </div>
           <div className="col-lg-8" data-aos="fade-up">
             <span className="text-warning welcome-text">Welcome To </span>

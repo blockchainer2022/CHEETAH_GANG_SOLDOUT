@@ -62,6 +62,7 @@ const Index = () => {
               data-aos-delay="350"
               src={Rarirt}
               alt="rarirtyimages"
+              className="img-fluid"
             />
           </div>
           <div className="col-lg-4 text-center">
