@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
@@ -243,6 +247,7 @@ header .navbar-dark .navbar-nav.social-media .nav-item {
 
 .mint-box-logo img {
   border-radius: 0 5px 0 0;
+  max-width: 100%;
 }
 
 .mint-box-title {
